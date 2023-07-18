@@ -1,0 +1,5 @@
+How did I do this?
+
+I firstly asked CHATGPT to decode the messsage given in question.
+Then I converted the given hexdaecimal encoded message into base 64 encoding and then I converted obtained string into ASCII text using online converters.
+I wrapped the obtained string into CTF{} and submitted. Answer was correct.
