@@ -1,5 +1,6 @@
 How did I do this?
 
 I firstly asked CHATGPT to decode the messsage given in question.
-Then I converted the given hexdaecimal encoded message into base 64 encoding and then I converted obtained string into ASCII text using online converters.
+
+Then I converted the given hexdaecimal encoded message into base 64 encodingusing 'https://www.duplichecker.com/hex-to-text.php' and then I converted obtained string into ASCII text using 'https://amp-base64decode-org.cdn.ampproject.org/v/s/amp.base64decode.org/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16895850569176&referrer=https%3A%2F%2Fwww.google.com'.
 I wrapped the obtained string into CTF{} and submitted. Answer was correct.
